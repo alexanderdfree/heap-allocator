@@ -1,0 +1,4 @@
+allocated 8 id 1
+allocated 16 id 2
+allocated 32 id 3
+Malloc failed, out of memory!

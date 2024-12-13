@@ -1,0 +1,36 @@
+allocated 16 id 1
+allocated 16 id 2
+allocated 16 id 3
+allocated 16 id 4
+allocated 16 id 5
+allocated 16 id 6
+allocated 16 id 7
+allocated 16 id 8
+0:0, 1:0, 2:0, 3:0, 
+allocated 16 id 9
+allocated 16 id 10
+allocated 16 id 11
+allocated 16 id 12
+allocated 16 id 13
+allocated 16 id 14
+allocated 16 id 15
+allocated 16 id 16
+0:0, 1:0, 2:0, 3:0, 
+free id 2
+free id 4
+free id 3
+free id 16
+free id 5
+free id 6
+free id 7
+free id 8
+0:0, 1:8, 2:0, 3:0, 
+free id 1
+free id 9
+free id 10
+free id 11
+free id 12
+free id 13
+free id 14
+free id 15
+0:0, 1:16, 2:0, 3:0, 

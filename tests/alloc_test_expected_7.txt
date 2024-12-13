@@ -1,0 +1,12 @@
+allocated 8 id 1
+allocated 16 id 2
+allocated 8 id 3
+allocated 64 id 4
+free id 3
+allocated 16 id 5
+allocated 8 id 6
+free id 6
+allocated 64 id 7
+free id 4
+allocated 16 id 8
+Malloc failed, out of memory!

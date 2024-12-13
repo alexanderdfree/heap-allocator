@@ -1,0 +1,24 @@
+allocated 8 id 1
+allocated 16 id 2
+allocated 8 id 3
+allocated 64 id 4
+free id 3
+allocated 16 id 5
+allocated 8 id 6
+free id 6
+allocated 64 id 7
+free id 4
+allocated 16 id 8
+allocated 32 id 9
+allocated 32 id 10
+free id 7
+allocated 64 id 11
+allocated 64 id 12
+allocated 8 id 13
+allocated 8 id 14
+allocated 8 id 15
+allocated 8 id 16
+free id 10
+free id 2
+free id 1
+0:4, 1:6, 2:7, 3:6, 
